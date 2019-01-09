@@ -25,7 +25,7 @@
     "homepage": "https://github.com/ynnjs/ynn-plugin-mysql#readme",
     "dependencies": {
         "mysql2": "^1.6.4",
-        "ynn": "0.0.16"
+        "ynn": "0.0.18"
     },
     "devDependencies": {
         "eslint": "^5.12.0",
