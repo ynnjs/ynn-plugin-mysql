@@ -29,13 +29,13 @@
     },
     "homepage": "https://github.com/ynnjs/ynn-plugin-mysql#readme",
     "dependencies": {
-        "mysql2": "^1.6.4"
+        "mysql2": "^1.6.5"
     },
     "devDependencies": {
-        "eslint": "^5.12.0",
-        "jest": "^24.0.0",
+        "eslint": "^5.14.1",
+        "jest": "^24.1.0",
         "pre-commit": "^1.2.2",
-        "ynn": "0.0.25"
+        "ynn": "0.0.36"
     },
     "jest": {
         "testMatch": [
